@@ -37,3 +37,4 @@ wget https://raw.githubusercontent.com/angeloorru/custom-vps/main/openvpn-instal
 
 ```
 
+Get your VPS Server for ~$5 pcm at https://www.linode.com/ or check https://my.vultr.com
